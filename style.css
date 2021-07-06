@@ -3,16 +3,19 @@ body {
     padding: 0px;
     font-family: 'Poppins', sans-serif;
 }
+
 h1 {
-    font-size: 80px;
-    padding: 80px 0px 0px 0px;
+    font-size: 70px;
+    padding: 60px 0px 0px 0px;
     margin: 0%;
 }
+
 h2 {
     font-size: 60px;
     margin: 0px;
     padding: 0px;
 }
+
 h3 {
     font-size: 40px;
     font-weight: 700;
@@ -21,16 +24,20 @@ h4 {
     font-size: 25px;
     font-weight: 600;
 }
+
 p {
     font-size: 15px;
     padding-bottom: 40px;
 }
+
 .flex-section {
 display: flex;
 }
+
 .highlight {
     color: tomato;
 }
+
 .link-button {
     text-decoration: none;
     background-image:linear-gradient(rgb(167, 150, 145), rgb(247, 56, 56));
@@ -39,14 +46,17 @@ display: flex;
     border-radius: 50px;
     padding: 15px 30px;
 }
+
 .flex-top-container {
     width: 50%;
     padding: 0% 0% 10% 5%;
 }
+
 .flex-top-container img {
     width: 100%;
     height: 100%;
 }
+
 .flex-middle-section {
     background-image: url(images/middlebanner.png);
     background-repeat: no-repeat;
@@ -54,13 +64,16 @@ display: flex;
     background-size: 100% 100%;
     align-items: center;
 }
+
 .flex-middle-container {
     width: 50%;
 }
+
 .flex-middle-container img { 
     width: 100%;
     height: 100%;
 }
+
 .flex-bottom-container {
     width: 33%;
     margin-left: 2%;
@@ -70,20 +83,24 @@ display: flex;
     border-radius: 30px;
     box-shadow: 2px 2px 20px 2px rgb(174, 253, 249);
 }
+
 .flex-bottom-container img {
     width: 100%;
     height: 250px;
     border-radius: 20px;
 }
+
 .non-flex-section div {
     text-align: center;
 }
+
 #last-box {
     margin: 2% 2%;
     padding: 5px;
     border-radius: 10px;
     box-shadow: 2px 2px 15px 5px rgb(174, 253, 249);
 }
+
 footer p {
     text-align: center;
     padding-top:10px;
