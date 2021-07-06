@@ -35,7 +35,7 @@ display: flex;
 }
 
 .highlight {
-    color: tomato;
+    color: rgb(5, 238, 238);
 }
 
 .link-button {
@@ -101,9 +101,10 @@ display: flex;
     box-shadow: 2px 2px 15px 5px rgb(174, 253, 249);
 }
 
-footer p {
+footer {
+    color: white;
+    background-color: black;
     text-align: center;
-    padding-top:10px;
-    padding-bottom: 0px;
+    padding:0px;
     font-size: 10px;
 }
